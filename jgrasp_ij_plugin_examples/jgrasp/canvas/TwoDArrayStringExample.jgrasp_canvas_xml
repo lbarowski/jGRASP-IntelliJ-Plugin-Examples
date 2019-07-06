@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>TwoDArrayStringExample</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>84</X>
+      <Y>155</Y>
+      <W>1128</W>
+      <H>257</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers._X_A_A_ToStringView0</Key>
+      <Order>4</Order>
+      <W>1134</W>
+      <H>312</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.lang.String[][]` table</Expression>
+      <ViewerClass>jgrasp_viewers._X_A_A_ToStringView</ViewerClass>
+      <ViewerData>
+        <Cols>9</Cols>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>1447</W>
+    <H>908</H>
+  </Size>
+  <ESize>
+    <W>1447</W>
+    <H>908</H>
+  </ESize>
+</Canvas>
